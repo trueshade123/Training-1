@@ -1,2 +1,4 @@
 #!bin/bash/
 gitfile1.txt
+feeling loved today
+make we for the hear word 
